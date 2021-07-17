@@ -1,1 +1,1 @@
-git clone git clone https://github.com/MichMich/MagicMirror
+git clone https://github.com/MichMich/MagicMirror
